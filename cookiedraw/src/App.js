@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Cookie-Run-Draw
         </a>
       </header>
     </div>
